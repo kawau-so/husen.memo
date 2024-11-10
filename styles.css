@@ -22,7 +22,7 @@ body {
 }
 
 .note {
-    background-color: #ffeb3b;
+    background-color: #F0DD8F;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -46,7 +46,7 @@ body {
     position: absolute;
     top: 5px;
     right: 5px;
-    background-color: red;
+    background-color: #DD6882;
     color: white;
     border: none;
     border-radius: 50%;
